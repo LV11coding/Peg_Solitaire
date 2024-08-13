@@ -100,3 +100,5 @@ int main()
     }
     return 0;
 }
+
+// the code checks all positions, it needs to check just the active one
